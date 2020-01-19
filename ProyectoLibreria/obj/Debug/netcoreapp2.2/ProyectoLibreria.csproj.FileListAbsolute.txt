@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\obj\Debug\netcoreapp2.2\ProyectoLibreria.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\obj\Debug\netcoreapp2.2\ProyectoLibreria.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\obj\Debug\netcoreapp2.2\ProyectoLibreria.RazorAssemblyInfo.cache
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\obj\Debug\netcoreapp2.2\ProyectoLibreria.RazorAssemblyInfo.cs
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\obj\Debug\netcoreapp2.2\ProyectoLibreria.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\obj\Debug\netcoreapp2.2\ProyectoLibreria.AssemblyInfo.cs
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\bin\Debug\netcoreapp2.2\ProyectoLibreria.deps.json
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\bin\Debug\netcoreapp2.2\ProyectoLibreria.runtimeconfig.json
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\bin\Debug\netcoreapp2.2\ProyectoLibreria.runtimeconfig.dev.json
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\bin\Debug\netcoreapp2.2\ProyectoLibreria.dll
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\bin\Debug\netcoreapp2.2\ProyectoLibreria.pdb
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\obj\Debug\netcoreapp2.2\ProyectoLibreria.RazorTargetAssemblyInfo.cache
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\obj\Debug\netcoreapp2.2\ProyectoLibreria.dll
+C:\Users\jorge\source\repos\ProyectoLibreria\ProyectoLibreria\obj\Debug\netcoreapp2.2\ProyectoLibreria.pdb
